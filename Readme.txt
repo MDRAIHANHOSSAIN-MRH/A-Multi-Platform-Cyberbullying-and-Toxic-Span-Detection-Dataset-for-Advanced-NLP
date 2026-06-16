@@ -47,4 +47,9 @@ Platform Distribution:
 -----------------------
 Distributed under Creative Commons Attribution 4.0 International (CC BY 4.0). 
 Please cite this dataset repository and its official DOI if utilized in any academic, industrial, or commercial publications.
+
+Link: https://data.mendeley.com/datasets/x5rpmydktp/1
+
+Cite this dataset:
+HOSSAIN, MD RAIHAN; Syed, Lamia; Sharif, Shekh Tanjil (2026), “A Multi-Platform Cyberbullying and Toxic Span Detection Dataset for Advanced NLP”, Mendeley Data, V1, doi: 10.17632/x5rpmydktp.1
 ========================================================================
